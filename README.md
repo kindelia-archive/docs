@@ -9,8 +9,9 @@ Documentation for the Kindelia project.
 
 ## Guides
 
-- [Blocks, Transactions, Accounts]
-- [Security & Incentives]
+- [Blocks, Transactions, Accounts]()
+- [Security & Incentives]()
 - [Setting up the development environment]()
-- [Data and Analytics] (how to interpret kindelia's blockchain data)
+- [Data and Analytics]() (how to interpret kindelia's blockchain data)
 - [Programming Languages & SDKs]()
+- [Networks, Nodes and Clients]()
